@@ -102,7 +102,7 @@ Your Deployment is now live and will begin executing your strategy according to 
 
 ## Support
 
-For additional help and documentation, visit the [Almanak Documentation](https://docs.almanak.com) or contact support through the platform dashboard.
+For additional help and documentation, visit the [Almanak Documentation](https://docs.almanak.co/docs/getting-started/) or contact support through the platform dashboard.
 
 ## License
 
